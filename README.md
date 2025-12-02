@@ -66,4 +66,15 @@ Our analysis concludes that the Steam marketplace has shifted from a publisher-d
 ---
 
 ### 📸 Screenshots
-*(See the "Images" folder in this repository for high-resolution exports of the graphs).*
+
+#### 1. Genre ROI Matrix (Heatmap)
+*Analyzing the "Sweet Spot" for pricing vs. customer value.*
+![Genre ROI Matrix](images/Genre%20ROI%20Matrix_%20Price%20Point%20vs.%20User%20Satisfaction.png)
+
+#### 2. The Price-Quality Paradox (Scatter Plot)
+*Comparing Price vs. Review Score, sized by Player Count.*
+![Scatter Plot](images/Market%20Valuation%20vs.%20User%20Sentiment.png)
+
+#### 3. Genre Market Share Evolution (Stacked Area Chart)
+*Visualizing the rise of Indie & Action games from 1997–2024.*
+![Market Share Evolution](images/Genre%20Market%20Share%20Evolution%20(1997–2024).png)
